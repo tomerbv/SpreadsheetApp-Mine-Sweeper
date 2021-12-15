@@ -12,7 +12,11 @@ includes the following functionalities:
 
 
 
-## Create a new spreadsheet
+### Create a new spreadsheet
+![Screenshot (37)](https://user-images.githubusercontent.com/81749152/146245533-86fd73b1-fbf6-48b2-97ad-82040ebd49e9.png)
 
+### Spreadsheet created
+![Screenshot (38)](https://user-images.githubusercontent.com/81749152/146245534-983874df-ed6c-482e-ac33-fa75fa6bc185.png)
 
-## Spreadsheet created
+### Intence Mine Sweeper Game!
+![Screenshot (39)](https://user-images.githubusercontent.com/81749152/146245563-efac57cf-ef3d-4494-b0a3-1519b34942fd.png)
